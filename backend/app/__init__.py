@@ -1,1 +1,0 @@
-# DocMind AI Backend Package
